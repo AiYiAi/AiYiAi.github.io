@@ -2,7 +2,7 @@
     "room": "| EDM || CZ || SK |",
     "author": "艾伊艾艾",
     "icon": null,
-    "css": null,
+    "css": "https://AiYiAi.github.io/EDM/Style/Style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
