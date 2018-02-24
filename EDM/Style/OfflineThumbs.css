@@ -1,1 +1,8 @@
+.offline .thumb {
+    border-color: hsl(0, 100%, 50%) !important;
+    box-shadow: none !important;
+}
 
+.offline .thumb {
+    border: 2px solid #FF0000;
+}
