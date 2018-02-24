@@ -23,6 +23,6 @@
     box-shadow: 0 0 7px hsl(200, 50%, 50%) !important;
 }
 
-#user-rollover.is-staff .meta.online .thumb.large {
+#user-rollover.is-admin .meta.online .thumb.large {
     box-shadow: 0 0 15px hsl(200, 50%, 50%) !important;
 }
