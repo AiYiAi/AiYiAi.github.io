@@ -1,11 +1,11 @@
 #user-rollover.role-admin .thumb {
-    color: #4095BF !important; 
+    border-color:: #4095BF !important; 
 }
 
 #user-rollover.is-admin .thumb {
-    color: #4095BF !important; 
+    border-color:: #4095BF !important; 
 }
 
 #waitlist .is-admin .thumb {
-    color: #4095BF !important; 
+    border-color:: #4095BF !important; 
 }
