@@ -1,1 +1,129 @@
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
+#chat .msg .text .name.host {
+    color: #4075BF !important; 
+}
+
+#chat .msg .text .name.host .name {
+    color: #4075BF !important; 
+}
+
+.role-host .from .un {
+    color: #4075BF !important; 
+}
+
+#user-lists .list.room .user.role-host .name {
+    color: #4075BF !important; 
+}
+
+#waitlist .list .user.role-host .name + span {
+    color: #4075BF !important; 
+}
+
+#footer-user .info .name .icon-chat-host + span {
+    color: #4075BF !important; 
+}
+
+#chat .msg .text .name.host {
+    color: #4075BF !important; 
+}
+
+#chat .msg .text .name.host .name {
+    color: #4075BF !important; 
+}
+
+#user-rollover.role-host .username {
+    color: #4075BF !important; 
+}
+
+#user-rollover.role-host .role span {
+    color: #4075BF !important; 
+}
+
+#user-rollover.role-host .thumb {
+    color: #4075BF !important; 
+}
+
+#user-rollover.is-host .info .role span {
+    color: #4075BF !important; 
+}
+
+.user-content.profile .meta.is-host .role span {
+    color: #4075BF !important; 
+}
+
+.is-host .name {
+    color: #4075BF !important; 
+}
+
+#chat .from.host .un {
+    color: #4075BF !important; 
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat .msg .text .name.cohost {
+    color: #4075BF !important; 
+}
+
+#chat .msg .text .name.cohost .name {
+    color: #4075BF !important; 
+}
+
+.role-cohost .from .un {
+    color: #4075BF !important; 
+}
+
+#user-lists .list.room .user.role-cohost .name {
+    color: #4075BF !important; 
+}
+
+#waitlist .list .user.role-cohost .name + span {
+    color: #4075BF !important; 
+}
+
+#footer-user .info .name .icon-chat-cohost + span {
+    color: #4075BF !important; 
+}
+
+#chat .msg .text .name.cohost {
+    color: #4075BF !important; 
+}
+
+#chat .msg .text .name.cohost .name {
+    color: #4075BF !important; 
+}
+
+#user-rollover.role-cohost .username {
+    color: #4075BF !important; 
+}
+
+#user-rollover.role-cohost .role span {
+    color: #4075BF !important; 
+}
+
+#user-rollover.role-cohost .thumb {
+    color: #4075BF !important; 
+}
+
+#user-rollover.is-cohost .info .role span {
+    color: #4075BF !important; 
+}
+
+.user-content.profile .meta.is-cohost .role span {
+    color: #4075BF !important; 
+}
+
+.is-cohost .name {
+    color: #4075BF !important; 
+}
+
+#chat .from.cohost .un {
+    color: #4075BF !important; 
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
