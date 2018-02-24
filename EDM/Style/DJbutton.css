@@ -1,0 +1,53 @@
+#dj-button .left {
+    background: transparent!important;
+    transition: ease-in-out 0.8s;
+    width: 100%;
+    border-radius: 20px!important;
+}
+
+#dj-button .left .icon {
+    display: none!important;
+}
+
+#dj-button span {
+    margin-left: 30px;
+}
+
+#dj-button.is-locked {
+    cursor: not-allowed;
+}
+
+#dj-button.is-full .left,
+#dj-button.is-locked .left {
+    background: transparent!important;
+}
+
+#dj-button.is-leave .left,
+#dj-button.is-quit .left {
+    background-color: rgba(0, 42, 148, 0.5)!important;
+    text-shadow: 2px 2px black!important;
+    border-radius: 20px!important;
+    width: 100%;
+}
+
+#dj-button .left {
+    background-color: transparent!important;
+    border-radius: 20px!important;
+}
+
+#dj-button {
+    width: 200px;
+    border-radius: 6px;
+    background-color: transparent !important;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px!important;
+    transition: ease-in-out 0.4s;
+    border-width: 2px;
+}
+
+#dj-button:hover {
+    transition: 0.3s;
+    background-color: rgba(0, 42, 148, 0.5)!important;
+    text-shadow: 1px 1px black!important;
+}
