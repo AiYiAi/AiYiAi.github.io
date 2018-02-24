@@ -1,1 +1,11 @@
+#user-rollover.role-ambassador .thumb {
+    border-color:: #40BF40 !important; 
+}
 
+#user-rollover.is-ambassador .thumb {
+    border-color:: #40BF40 !important; 
+}
+
+#waitlist .is-ambassador .thumb {
+    border-color:: #40BF40 !important; 
+}
