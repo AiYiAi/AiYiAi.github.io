@@ -7,61 +7,6 @@
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
-#chat .msg .text .name.host {
-    color: #2070DF !important; 
-}
-
-#chat .msg .text .name.host .name {
-    color: #2070DF !important; 
-}
-
-.role-host .from .un {
-    color: #2070DF !important; 
-}
-
-#user-lists .list.room .user.role-host .name {
-    color: #2070DF !important; 
-}
-
-#waitlist .list .user.role-host .name + span {
-    color: #2070DF !important; 
-}
-
-#footer-user .info .name .icon-chat-host + span {
-    color: #2070DF !important; 
-}
-
-#chat .msg .text .name.host {
-    color: #2070DF !important; 
-}
-
-#chat .msg .text .name.host .name {
-    color: #2070DF !important; 
-}
-
-#user-rollover.role-host .username {
-    color: #2070DF !important; 
-}
-
-#user-rollover.role-host .role span {
-    color: #2070DF !important; 
-}
-
-#user-rollover.role-host .thumb {
-    color: #2070DF !important; 
-}
-
-#user-rollover.is-host .info .role span {
-    color: #2070DF !important; 
-}
-
-.user-content.profile .meta.is-host .role span {
-    color: #2070DF !important; 
-}
-
-#chat .from.host .un {
-    color: #2070DF !important; 
-}
 
 #user-lists .group.host ~ .user span {
     color: #2070DF !important; 
@@ -83,62 +28,6 @@
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
-#chat .msg .text .name.cohost {
-    color: #2070DF !important; 
-}
-
-#chat .msg .text .name.cohost .name {
-    color: #2070DF !important; 
-}
-
-.role-cohost .from .un {
-    color: #2070DF !important; 
-}
-
-#user-lists .list.room .user.role-cohost .name {
-    color: #2070DF !important; 
-}
-
-#waitlist .list .user.role-cohost .name + span {
-    color: #2070DF !important; 
-}
-
-#footer-user .info .name .icon-chat-cohost + span {
-    color: #2070DF !important; 
-}
-
-#chat .msg .text .name.cohost {
-    color: #2070DF !important; 
-}
-
-#chat .msg .text .name.cohost .name {
-    color: #2070DF !important; 
-}
-
-#user-rollover.role-cohost .username {
-    color: #2070DF !important; 
-}
-
-#user-rollover.role-cohost .role span {
-    color: #2070DF !important; 
-}
-
-#user-rollover.role-cohost .thumb {
-    color: #2070DF !important; 
-}
-
-#user-rollover.is-cohost .info .role span {
-    color: #2070DF !important; 
-}
-
-.user-content.profile .meta.is-cohost .role span {
-    color: #2070DF !important; 
-}
-
-#chat .from.cohost .un {
-    color: #2070DF !important; 
-}
-
 .icon-chat-cohost + span {
     color: #2070DF !important; 
 }
@@ -148,62 +37,6 @@
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
-
-#chat .msg .text .name.manager {
-    color: #20B9DF !important; 
-}
-
-#chat .msg .text .name.manager .name {
-    color: #20B9DF !important; 
-}
-
-.role-manager .from .un {
-    color: #20B9DF !important; 
-}
-
-#user-lists .list.room .user.role-manager .name {
-    color: #20B9DF !important; 
-}
-
-#waitlist .list .user.role-manager .name + span {
-    color: #20B9DF !important; 
-}
-
-#footer-user .info .name .icon-chat-manager + span {
-    color: #20B9DF !important; 
-}
-
-#chat .msg .text .name.manager {
-    color: #20B9DF !important; 
-}
-
-#chat .msg .text .name.manager .name {
-    color: #20B9DF !important; 
-}
-
-#user-rollover.role-manager .username {
-    color: #20B9DF !important; 
-}
-
-#user-rollover.role-manager .role span {
-    color: #20B9DF !important; 
-}
-
-#user-rollover.role-manager .thumb {
-    color: #20B9DF !important; 
-}
-
-#user-rollover.is-manager .info .role span {
-    color: #20B9DF !important; 
-}
-
-.user-content.profile .meta.is-manager .role span {
-    color: #20B9DF !important; 
-}
-
-#chat .from.manager .un {
-    color: #20B9DF !important; 
-}
 
 .icon-chat-manager + span {
     color: #20B9DF !important; 
@@ -224,62 +57,6 @@
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
-#chat .msg .text .name.bouncer {
-    color: #20D2DF !important; 
-}
-
-#chat .msg .text .name.bouncer .name {
-    color: #20D2DF !important; 
-}
-
-.role-bouncer .from .un {
-    color: #20D2DF !important; 
-}
-
-#user-lists .list.room .user.role-bouncer .name {
-    color: #20D2DF !important; 
-}
-
-#waitlist .list .user.role-bouncer .name + span {
-    color: #20D2DF !important; 
-}
-
-#footer-user .info .name .icon-chat-bouncer + span {
-    color: #20D2DF !important; 
-}
-
-#chat .msg .text .name.bouncer {
-    color: #20D2DF !important; 
-}
-
-#chat .msg .text .name.bouncer .name {
-    color: #20D2DF !important; 
-}
-
-#user-rollover.role-bouncer .username {
-    color: #20D2DF !important; 
-}
-
-#user-rollover.role-bouncer .role span {
-    color: #20D2DF !important; 
-}
-
-#user-rollover.role-bouncer .thumb {
-    color: #20D2DF !important; 
-}
-
-#user-rollover.is-bouncer .info .role span {
-    color: #20D2DF !important; 
-}
-
-.user-content.profile .meta.is-bouncer .role span {
-    color: #20D2DF !important; 
-}
-
-#chat .from.bouncer .un {
-    color: #20D2DF !important; 
-}
-
 .icon-chat-bouncer + span {
     color: #20D2DF !important; 
 }
@@ -298,62 +75,6 @@
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
-
-#chat .msg .text .name.dj {
-    color: #20DFC9 !important; 
-}
-
-#chat .msg .text .name.dj .name {
-    color: #20DFC9 !important; 
-}
-
-.role-dj .from .un {
-    color: #20DFC9 !important; 
-}
-
-#user-lists .list.room .user.role-dj .name {
-    color: #20DFC9 !important; 
-}
-
-#waitlist .list .user.role-dj .name + span {
-    color: #20DFC9 !important; 
-}
-
-#footer-user .info .name .icon-chat-dj + span {
-    color: #20DFC9 !important; 
-}
-
-#chat .msg .text .name.rdj {
-    color: #20DFC9 !important; 
-}
-
-#chat .msg .text .name.rdj .name {
-    color: #20DFC9 !important; 
-}
-
-#user-rollover.role-dj .username {
-    color: #20DFC9 !important; 
-}
-
-#user-rollover.role-dj .role span {
-    color: #20DFC9 !important; 
-}
-
-#user-rollover.role-dj .thumb {
-    color: #20DFC9 !important; 
-}
-
-#user-rollover.is-dj .info .role span {
-    color: #20DFC9 !important; 
-}
-
-.user-content.profile .meta.is-dj .role span {
-    color: #20DFC9 !important; 
-}
-
-#chat .from.dj .un {
-    color: #20DFC9 !important; 
-}
 
 .icon-chat-dj + span {
     color: #20DFC9 !important; 
