@@ -17,12 +17,21 @@
     cursor: not-allowed;
 }
 
-#dj-button.is-full .left,
+#dj-button.is-full .left {
+    background: transparent!important;
+}
+
 #dj-button.is-locked .left {
     background: transparent!important;
 }
 
-#dj-button.is-leave .left,
+#dj-button.is-leave .left {
+    background-color: rgba(0, 42, 148, 0.5)!important;
+    text-shadow: 2px 2px black!important;
+    border-radius: 20px!important;
+    width: 100%;
+}
+
 #dj-button.is-quit .left {
     background-color: rgba(0, 42, 148, 0.5)!important;
     text-shadow: 2px 2px black!important;
@@ -50,4 +59,9 @@
     transition: 0.3s;
     background-color: rgba(0, 42, 148, 0.5)!important;
     text-shadow: 1px 1px black!important;
+}
+
+#rs-eta {
+    font-size: small;
+    color: #FFFFFF !important;
 }
