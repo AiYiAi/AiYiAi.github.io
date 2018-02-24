@@ -1,71 +1,156 @@
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
 #user-rollover.role-host .thumb {
-    border-color:: #2070DF !important; 
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
 }
 
 #user-rollover.is-host .thumb {
-    border-color:: #2070DF !important; 
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
 }
 
 #waitlist .is-host .thumb {
-    border-color:: #2070DF !important; 
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
+}
+
+#user-rollover.is-host .meta.online .thumb {
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
+}
+
+#waitlist .is-host .thumb {
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
+}
+
+#user-rollover.is-host .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(215, 75%, 50%) !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
 #user-rollover.role-cohost .thumb {
-    border-color:: #2070DF !important; 
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
 }
 
 #user-rollover.is-cohost .thumb {
-    border-color:: #2070DF !important; 
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
 }
 
 #waitlist .is-cohost .thumb {
-    border-color:: #2070DF !important; 
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
+}
+
+#user-rollover.is-cohost .meta.online .thumb {
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
+}
+
+#waitlist .is-cohost .thumb {
+    border-color: hsl(215, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(215, 75%, 50%) !important;
+}
+
+#user-rollover.is-cohost .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(215, 75%, 50%) !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
 #user-rollover.role-manager .thumb {
-    border-color:: #20B9DF !important; 
+    border-color: hsl(192, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(192, 75%, 50%) !important;
 }
 
 #user-rollover.is-manager .thumb {
-    border-color:: #20B9DF !important; 
+    border-color: hsl(192, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(192, 75%, 50%) !important;
 }
 
 #waitlist .is-manager .thumb {
-    border-color:: #20B9DF !important; 
+    border-color: hsl(192, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(192, 75%, 50%) !important;
+}
+
+#user-rollover.is-manager .meta.online .thumb {
+    border-color: hsl(192, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(192, 75%, 50%) !important;
+}
+
+#waitlist .is-manager .thumb {
+    border-color: hsl(192, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(192, 75%, 50%) !important;
+}
+
+#user-rollover.is-manager .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(192, 75%, 50%) !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
 #user-rollover.role-bouncer .thumb {
-    border-color:: #20D2DF !important; 
+    border-color: hsl(184, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(184, 75%, 50%) !important;
 }
 
 #user-rollover.is-bouncer .thumb {
-    border-color:: #20D2DF !important; 
+    border-color: hsl(184, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(184, 75%, 50%) !important;
 }
 
 #waitlist .is-bouncer .thumb {
-    border-color:: #20D2DF !important; 
+    border-color: hsl(184, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(184, 75%, 50%) !important;
+}
+
+#user-rollover.is-bouncer .meta.online .thumb {
+    border-color: hsl(184, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(184, 75%, 50%) !important;
+}
+
+#waitlist .is-bouncer .thumb {
+    border-color: hsl(184, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(184, 75%, 50%) !important;
+}
+
+#user-rollover.is-bouncer .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(184, 75%, 50%) !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
 #user-rollover.role-dj .thumb {
-    border-color:: #20DFC9 !important; 
+    border-color: hsl(173, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(173, 75%, 50%) !important;
 }
 
 #user-rollover.is-dj .thumb {
-    border-color:: #20DFC9 !important; 
+    border-color: hsl(173, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(173, 75%, 50%) !important;
 }
 
 #waitlist .is-dj .thumb {
-    border-color:: #20DFC9 !important; 
+    border-color: hsl(173, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(173, 75%, 50%) !important;
+}
+
+#user-rollover.is-dj .meta.online .thumb {
+    border-color: hsl(173, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(173, 75%, 50%) !important;
+}
+
+#waitlist .is-dj .thumb {
+    border-color: hsl(173, 75%, 50%) !important;
+    box-shadow: 0 0 7px hsl(173, 75%, 50%) !important;
+}
+
+#user-rollover.is-dj .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(173, 75%, 50%) !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
