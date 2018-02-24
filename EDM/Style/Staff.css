@@ -67,6 +67,18 @@
     color: #2070DF !important; 
 }
 
+#user-lists .group.host ~ .user span {
+    color: #2070DF !important; 
+}
+
+#dialog-user-role .role-menu .menu ul .host span {
+    color: #2070DF !important; 
+}
+
+.icon-chat-host + span {
+    color: #2070DF !important; 
+}
+
 #user-lists .group.host {
     color: #2070DF;
     background: linear-gradient(to right, hsla(215, 75%, 50%, .5), hsla(215, 75%, 40%, .5)) !important;
@@ -135,6 +147,14 @@
     color: #2070DF !important; 
 }
 
+.icon-chat-cohost + span {
+    color: #2070DF !important; 
+}
+
+#dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
+    color: #2070DF !important; 
+}
+
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
 #chat .msg .text .name.manager {
@@ -194,6 +214,18 @@
 }
 
 #chat .from.manager .un {
+    color: #20B9DF !important; 
+}
+
+.icon-chat-manager + span {
+    color: #20B9DF !important; 
+}
+
+#user-lists .group.manager ~ .user span {
+    color: #20B9DF !important; 
+}
+
+#dialog-user-role .role-menu .menu ul .manager span {
     color: #20B9DF !important; 
 }
 
@@ -264,6 +296,18 @@
     color: #20D2DF !important; 
 }
 
+.icon-chat-bouncer + span {
+    color: #20D2DF !important; 
+}
+
+#user-lists .group.bouncer ~ .user span {
+    color: #20D2DF !important; 
+}
+
+#dialog-user-role .role-menu .menu ul .bouncer span {
+    color: #20D2DF !important; 
+}
+
 #user-lists .group.bouncer {
     color: #20D2DF;
     background: linear-gradient(to right, hsla(184, 75%, 50%, .5), hsla(184, 75%, 40%, .5)) !important;
@@ -328,6 +372,18 @@
 }
 
 #chat .from.dj .un {
+    color: #20DFC9 !important; 
+}
+
+.icon-chat-dj + span {
+    color: #20DFC9 !important; 
+}
+
+#user-lists .group.dj ~ .user span {
+    color: #20DFC9 !important; 
+}
+
+#dialog-user-role .role-menu .menu ul .dj span {
     color: #20DFC9 !important; 
 }
 
