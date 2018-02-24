@@ -21,7 +21,7 @@
 }
 
 #room-settings .general-settings .option button.off {
-    border: 3px solid rgba(64, 191, 64, .8);
+    border: 3px solid rgba(64, 191, 64, 0.7);
     background: transparent;
 }
 
@@ -36,7 +36,7 @@
 }
 
 #room-settings .general-settings .option.enabled>button.on {
-    border: 3px solid rgba(187, 62, 62, 0.7);
+    border: 3px solid rgba(64, 191, 64, 0.7);
     background: transparent
 }
 
