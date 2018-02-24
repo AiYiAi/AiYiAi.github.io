@@ -1,12 +1,12 @@
 # [EN]
-# Permission to pick + edit his own css
-# All rights reserved by Wibla
-# Any copy of this content will be handled with ambassadors
+## ###  Permission to pick + edit his own css
+## ###  All rights reserved by Wibla
+## ###  Any copy of this content will be handled with ambassadors
 
 # [CZ]
-# Povolení práv na sebrání + úpravu jeho css
-# Všechna práva vyhrazena
-# Jakékoliv kopírování tohoto css se bude řešit s Ambassadorem
+## ###  Povolení práv na sebrání + úpravu jeho css
+## ###  Všechna práva vyhrazena
+## ###  Jakékoliv kopírování tohoto css se bude řešit s Ambassadorem
 
 
 
