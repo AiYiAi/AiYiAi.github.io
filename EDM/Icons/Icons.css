@@ -1,1 +1,210 @@
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
+.icon-chat-admin {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Admin.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-admin > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Admin.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-admin > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Admin.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-admin > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Admin.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.icon-chat-ambassador {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Ambassador.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-ambassador > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Ambassador.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-ambassador > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Ambassador.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-ambassador > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Ambassador.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.icon-chat-host {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Host.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-host > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Host.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-host > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Host.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-host > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Host.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.icon-chat-cohost {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Cohost.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-cohost > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Cohost.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-cohost > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Cohost.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-cohost > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Cohost.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.icon-chat-manager {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Manager.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-manager > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Manager.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-manager > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Manager.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-manager > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Manager.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.icon-chat-bouncer {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Bouncer.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-bouncer > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Bouncer.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-bouncer > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Bouncer.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-bouncer > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/Bouncer.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.icon-chat-dj {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/ResidentDJ.png") !important;
+    background-position: 0 0;
+}
+
+.message.from-residentdj > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/ResidentDJ.png") !important;
+    background-position: 0 0;
+}
+
+.emote.from-residentdj > .icon {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/ResidentDJ.png") !important;
+    background-position: 0 0;
+}
+
+.mention.from-residentdj > .icon 
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/ResidentDJ.png") !important;
+    background-position: 0 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#app-menu .android-badge {
+    width: 131px;
+    height: 45px;
+    background: url("http://AiYiAi.github.io/EDM/Icons/AndroidLogo.png") no-repeat;
+    background-size: 131px 45px;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.badge-box.no-badge i {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/EDM-Nobadge.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    top: 0px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+.badge-box.no-badge i {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/EDM-Nobadge.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    top: 0px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+#user-rollover .badge-box.no-badge i {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/EDM-Nobadge.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    top: 0px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+#footer-user .buttons .button .no-badge {
+    background-image: url("http://AiYiAi.github.io/EDM/Icons/EDM-Nobadge.png");
+    background-repeat: no-repeat;
+    background-size: 16px;
+    top: 17px;
+    left: 25px;
+    width: 16px;
+    height: 16px;
+    border: none;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
