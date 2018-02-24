@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "https://AiYiAi.github.io/EDM/Background/BGS160.jpg",
-        "playback": null,
+        "playback": "https://AiYiAi.github.io/EDM/Playback/PB12.png",
         "admin": null,
         "ambassador": null,
         "host": null,
