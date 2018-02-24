@@ -1,1 +1,58 @@
+#meh {
+    width: 75px!important;
+    height: 75px!important;
+    transition: ease-in-out 0.2s!important;
+    background-color: transparent!important;
+    border-style: solid;
+    border-color: white;
+    border-radius: 200px;
+    border-width: 3px;
+    background-size: 70%!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+}
 
+#meh.selected {
+    background-color: rgba(255, 109, 40, 0.2)!important;
+    transition: ease-in-out 0.2s!important;
+}
+
+#meh:hover {
+    background-color: rgba(255, 109, 40, 0.2)!important;
+    transition: ease-in-out 0.2s!important;
+}
+
+#meh .bottom {
+    background-color: transparent !important;
+}
+
+#meh .top {
+    display: none!important;
+}
+
+#meh .bottom {
+    text-shadow: 1px 1px black;
+    animation: otherway .5s;
+    animation-fill-mode: forwards;
+}
+
+#meh.crowd-response .bottom .value {
+    font-size: 14px!important;
+    padding-top: 4px;
+    display: block;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 100px;
+    width: 27px;
+    height: 22px;
+    margin-left: 22px;
+    margin-top: -25px;
+    background-color: #D10602;
+}
+
+#meh:hover .bottom {
+    display: block;
+    animation: voteslide .5s;
+    animation-fill-mode: forwards;
+}
