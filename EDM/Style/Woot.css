@@ -15,12 +15,12 @@
 }
 
 #woot.selected {
-    background-color: rgba(33, 230, 0, 0.2)!important;
+    background-color: rgba(64, 191, 64, 0.2)!important;
     transition: ease-in-out 0.2s!important;
 }
 
 #woot:hover {
-    background-color: rgba(33, 230, 0, 0.2)!important;
+    background-color: rgba(64, 191, 64, 0.2)!important;
     transition: ease-in-out 0.2s!important;
 }
 
@@ -58,7 +58,7 @@
     height: 22px;
     margin-left: 22px;
     margin-top: -25px;
-    background-color: #1F4308;
+    background-color: #40BF40;
 }
 
 #woot:hover .bottom {
