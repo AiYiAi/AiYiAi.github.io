@@ -7,6 +7,7 @@
     border-color: white;
     border-radius: 200px;
     border-width: 3px;
+    background-image: url("https://AiYiAi.github.io/EDM/Icons/Woot.png")!important;
     background-size: 70%!important;
     background-repeat: no-repeat!important;
     background-position: center!important;
@@ -65,5 +66,3 @@
     animation: voteslide .5s;
     animation-fill-mode: forwards;
 }
-
-
