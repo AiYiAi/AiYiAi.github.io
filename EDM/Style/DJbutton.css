@@ -1,64 +1,136 @@
-#dj-button .left {
-    background: transparent!important;
-    transition: ease-in-out 0.8s;
-    width: 100%;
-    border-radius: 20px!important;
-}
-
-#dj-button .left .icon {
-    display: none!important;
-}
-
-#dj-button span {
-    margin-left: 30px;
-}
-
-#dj-button.is-locked {
-    cursor: not-allowed;
+#dj-button.is-locked .left {
+    background: #222224;
 }
 
 #dj-button.is-full .left {
-    background: transparent!important;
-}
-
-#dj-button.is-locked .left {
-    background: transparent!important;
-}
-
-#dj-button.is-leave .left {
-    background-color: rgba(191, 64, 64, 0.5)!important;
-    text-shadow: 2px 2px black!important;
-    border-radius: 20px!important;
-    width: 100%;
+    background: #222224;
 }
 
 #dj-button.is-quit .left {
-    background-color: rgba(191, 64, 64, 0.5)!important;
-    text-shadow: 2px 2px black!important;
-    border-radius: 20px!important;
-    width: 100%;
+    background: #121214;
+    border-radius: 8px;
+    /border-left-width: 4px;
 }
 
-#dj-button .left {
-    background-color: transparent!important;
-    border-radius: 20px!important;
+#dj-button.is-leave .left{
+    background: #121214;
+    border-radius: 8px;
+    /border-left-width: 4px;
+}
+
+#dj-button.is-wait .left{
+    background: #121214;
+    border-radius: 8px;
+    /border-left-width: 4px;
+}
+
+#dj-button.is-locked .left{
+    background: #121214;
+    border-radius: 8px;
+    /border-left-width: 4px;
+}
+
+#dj-button.is-full .left {
+    background: #121214;
+    border-radius: 8px;
+    /border-left-width: 4px;
+}
+
+#dj-button.is-quit .left {
+    border-left: 3px solid #F43E3E;
+}
+
+#dj-button.is-leave .left {
+    border-left: 3px solid #F43E3E;
+}
+
+#dj-button.is-wait .left {
+    border-left: 3px solid #00C8FF;
+}
+
+#dj-button.is-locked .left {
+    border-left: 3px solid #7740BF;
+}
+
+#dj-button.is-full .left {
+    border-left: 3px solid #FFFFFF;
 }
 
 #dj-button {
-    width: 200px;
-    border-radius: 6px;
-    background-color: transparent !important;
-    border-style: solid;
-    border-color: white;
-    border-radius: 20px!important;
-    transition: ease-in-out 0.4s;
-    border-width: 2px;
+    background: #222224;
+    border-radius: 8px;
 }
 
-#dj-button:hover {
-    transition: 0.3s;
-    background-color: rgba(64, 191, 64, 0.5)!important;
-    text-shadow: 1px 1px black!important;
+#dj-button {
+    height: 61px;
+    width: 204px;
+    background: none;
+}
+
+#dj-button .left {
+    background: none;
+}
+
+#dj-button.is-quit {
+    border: 3px solid #F43E3E;
+}
+
+#dj-button.is-leave {
+    border: 3px solid #F43E3E;
+}
+
+#dj-button.is-wait {
+    border: 3px solid #00C8FF;
+}
+
+#dj-button.is-join {
+    border: 3px solid #00C8FF;
+}
+
+#dj-button.is-locked {
+    border: 3px solid #941313;
+}
+
+#dj-button.is-full {
+    border: 3px solid #9E9A95;
+}
+
+#dj-button.is-quit .left {
+    background: none;
+    border-radius: 0px;
+    border-left: none;
+}
+
+#dj-button.is-leave .left {
+    background: none;
+    border-radius: 0px;
+    border-left: none;
+}
+
+#dj-button.is-wait .left {
+    background: none;
+    border-radius: 0px;
+    border-left: none;
+}
+
+#dj-button.is-locked .left {
+    background: none;
+    border-radius: 0px;
+    border-left: none;
+}
+
+#dj-button.is-full .left {
+    background: none;
+    border-radius: 0px;
+    border-left: none;
+}
+
+#dj-button span {
+    margin-left: 55px;
+}
+
+.video-only #dj-button {
+  	width: 250px;
 }
 
 #rs-eta {
