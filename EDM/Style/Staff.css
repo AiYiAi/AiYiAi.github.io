@@ -59,10 +59,6 @@
     color: #2070DF !important; 
 }
 
-.is-host .name {
-    color: #2070DF !important; 
-}
-
 #chat .from.host .un {
     color: #2070DF !important; 
 }
@@ -139,10 +135,6 @@
     color: #2070DF !important; 
 }
 
-.is-cohost .name {
-    color: #2070DF !important; 
-}
-
 #chat .from.cohost .un {
     color: #2070DF !important; 
 }
@@ -206,10 +198,6 @@
 }
 
 .user-content.profile .meta.is-manager .role span {
-    color: #20B9DF !important; 
-}
-
-.is-manager .name {
     color: #20B9DF !important; 
 }
 
@@ -288,10 +276,6 @@
     color: #20D2DF !important; 
 }
 
-.is-bouncer .name {
-    color: #20D2DF !important; 
-}
-
 #chat .from.bouncer .un {
     color: #20D2DF !important; 
 }
@@ -364,10 +348,6 @@
 }
 
 .user-content.profile .meta.is-dj .role span {
-    color: #20DFC9 !important; 
-}
-
-.is-dj .name {
     color: #20DFC9 !important; 
 }
 
