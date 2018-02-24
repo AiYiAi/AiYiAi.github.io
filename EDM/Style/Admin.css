@@ -1,1 +1,55 @@
+#chat .msg .text .name.admin {
+    color: #4095BF !important; 
+}
 
+#chat .msg .text .name.admin .name {
+    color: #4095BF !important; 
+}
+
+.role-admin .from .un {
+    color: #4095BF !important; 
+}
+
+#user-lists .list.room .user.role-admin .name {
+    color: #4095BF !important; 
+}
+
+#waitlist .list .user.role-admin .name + span {
+    color: #4095BF !important; 
+}
+
+#footer-user .info .name .icon-chat-admin + span {
+    color: #4095BF !important; 
+}
+
+#chat .msg .text .name.admin {
+    color: #4095BF !important; 
+}
+
+#chat .msg .text .name.admin .name {
+    color: #4095BF !important; 
+}
+
+#user-rollover.role-admin .username {
+    color: #4095BF !important; 
+}
+
+#user-rollover.role-admin .role span {
+    color: #4095BF !important; 
+}
+
+#user-rollover.is-admin .info .role span {
+    color: #4095BF !important; 
+}
+
+#chat .from.admin .un {
+    color: #4095BF !important; 
+}
+
+.is-admin .name {
+    color: #4095BF !important; 
+}
+
+.user-content.profile .meta.is-admin .role span {
+    color: #4095BF !important; 
+}
