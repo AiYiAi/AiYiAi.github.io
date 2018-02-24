@@ -1,11 +1,28 @@
 #user-rollover.role-ambassador .thumb {
-    border-color:: #40BF40 !important; 
+    border-color: hsl(120, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(120, 50%, 50%) !important;
 }
 
 #user-rollover.is-ambassador .thumb {
-    border-color:: #40BF40 !important; 
+    border-color: hsl(120, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(120, 50%, 50%) !important;
 }
 
 #waitlist .is-ambassador .thumb {
-    border-color:: #40BF40 !important; 
+    border-color: hsl(120, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(120, 50%, 50%) !important;
+}
+
+#user-rollover.is-ambassador .meta.online .thumb {
+    border-color: hsl(120, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(120, 50%, 50%) !important;
+}
+
+#waitlist .is-ambassador .thumb {
+    border-color: hsl(120, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(120, 50%, 50%) !important;
+}
+
+#user-rollover.is-ambassador .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(120, 50%, 50%) !important;
 }
