@@ -1,1 +1,62 @@
+#grab {
+    width: 75px!important;
+    height: 75px!important;
+    transition: ease-in-out 0.2s!important;
+    background-color: transparent!important;
+    border-style: solid;
+    border-color: white;
+    border-radius: 200px;
+    border-width: 3px;
+    background-size: 70%!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    margin-left: 2px!important;
+    margin-right: 2px!important;
+}
+
+#grab.selected {
+    background-color: rgba(0, 235, 255, 0.2)!important;
+    transition: ease-in-out 0.2s!important;
+}
+
+#grab:hover {
+    background-color: rgba(0, 235, 255, 0.2)!important;
+    transition: ease-in-out 0.2s!important;
+}
+
+#grab .bottom {
+    background-color: transparent !important;
+}
+
+#grab .top {
+    display: none!important;
+}
+
+#grab .bottom {
+    text-shadow: 1px 1px black;
+    animation: otherway .5s;
+    animation-fill-mode: forwards;
+}
+
+#grab.crowd-response .bottom .value {
+    font-size: 14px!important;
+    padding-top: 4px;
+    display: block;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 100px;
+    width: 27px;
+    height: 22px;
+    margin-left: 22px;
+    margin-top: -25px;
+    background-color: #05557D;
+}
+
+#grab:hover .bottom {
+    display: block;
+    animation: voteslide 0.5s;
+    animation-fill-mode: forwards;
+}
+
 
