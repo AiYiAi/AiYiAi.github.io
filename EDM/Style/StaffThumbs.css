@@ -1,0 +1,13 @@
+#user-rollover.is-staff .meta.online .thumb {
+    border-color: hsl(290, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(290, 50%, 50%) !important;
+}
+
+#waitlist .is-staff .thumb {
+    border-color: hsl(290, 50%, 50%) !important;
+    box-shadow: 0 0 7px hsl(290, 50%, 50%) !important;
+}
+
+#user-rollover.is-staff .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl(290, 50%, 50%) !important;
+}
