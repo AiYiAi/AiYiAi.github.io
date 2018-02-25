@@ -1,6 +1,6 @@
 #woot {
-    width: 75px!important;
-    height: 75px!important;
+    width: 50px!important;
+    height: 50px!important;
     transition: ease-in-out 0.2s!important;
     background-color: transparent!important;
     border-style: solid;
@@ -52,7 +52,7 @@
     border-color: white;
     border-width: 3px;
     border-style: solid;
-    border-radius: 100px;
+    border-radius: 50px;
     width: 27px;
     height: 22px;
     margin-left: 22px;
@@ -64,4 +64,16 @@
     display: block;
     animation: voteslide .5s;
     animation-fill-mode: forwards;
+}
+
+#woot-rs {
+    top: -1px;
+    border-radius: 10px 10px 0 0;
+    background: hsla(120, 50%, 50%, 0.8);
+    box-shadow: 0 0 10px #000;
+    z-index: 0;
+}
+
+#woot-rs .title {
+    border-radius: 10px 10px 0 0;
 }
