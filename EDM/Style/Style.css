@@ -737,7 +737,11 @@
     background: linear-gradient(hsla(20, 90%, 50%, 0.8), hsla(20, 90%, 40%, 0.8)) !important;
 }
 
-.user-content .avatars .grid .cell, .user-content .avatars .grid .cell .top {
+.user-content .avatars .grid .cell {
+    border-radius: 30px;
+}
+
+.user-content .avatars .grid .cell .top {
     border-radius: 30px;
 }
 
@@ -873,7 +877,7 @@ user-content .avatars .cell.selected .top {
 
 #toast-notifications .left {
     border-radius: 20px 0 0 20px;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.4), rgba(0, 0, 0, 0)) !important;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0)) !important;
 }
 
 #toast-notifications .right {
@@ -902,6 +906,86 @@ user-content .avatars .cell.selected .top {
 #playlist-create .drop-zone {
     margin: 0;
     padding: 24px 27px;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#user-rollover {
+    border-radius: 30px 30px 0 0;
+    background: linear-gradient(135deg, hsla(0, 0%, 20%, 0.6), hsla(0, 0%, 0%, 0.6));
+    box-shadow: 0 0 10px #000000;
+}
+
+#user-rollover .info {
+    background: linear-gradient(hsla(220, 100%, 30%, 0.5), hsla(220, 100%, 15%, 0.5));
+    box-shadow: 0px -2px 10px -1px #000000;
+    border-radius: 50% 50% 0 0 !important;
+}
+
+#user-rollover .info i + span {
+    text-shadow: 0 0 5px #000000;
+}
+
+#user-rollover.expand.can-skip.chat .arrow-down {
+    border-left-color: hsla(0, 0%, 10%, 0.6) !important;
+}
+
+#user-rollover.expand.chat .arrow-down {
+    border-left-color: hsla(0, 0%, 10%, 0.6) !important;
+}
+
+#user-rollover.expand.self.can-skip.chat .arrow-down {
+    border-left-color: hsla(0, 0%, 10%, 0.6) !important;
+}
+
+#user-rollover .arrow-down {
+    border-top-color: hsla(220, 100%, 15%, 0.5) !important;
+}
+
+#user-rollover.self.can-skip .arrow-down {
+    border-top-color: hsla(220, 100%, 15%, 0.5) !important;
+}
+
+#user-rollover.expand .arrow-down {
+    border-top-color: hsla(0, 0%, 10%, .6) !important;
+}
+
+#user-rollover.expand.self.can-skip .arrow-down {
+    border-top-color: hsla(0, 0%, 10%, .6) !important;
+}
+
+.thumb {
+    background: hsla(210, 10%, 10%, 0.4);
+}
+
+#user-rollover .info .badge-box {
+    background: rgba(0, 0, 0, 0);
+}
+
+#user-rollover .background {
+    background: rgba(0, 0, 0, 0);
+}
+
+#video-only-dj .background {
+    background: rgba(0, 0, 0, 0);
+}
+
+#search-suggestion {
+    background: rgba(0, 0, 0, 0);
+}
+
+#search-suggestion ul {
+    background: rgba(0, 0, 0, 0);
+}
+
+#user-rollover .action {
+    background: radial-gradient(hsla(0, 0%, 7%, 0.8), hsla(0, 0%, 0%, 0.8)) !important;
+    box-shadow: 0 0 2px 1px #151515 !important;
+}
+
+#user-rollover .action:hover {
+    background: radial-gradient(hsla(210, 100%, 30%, 0.9), hsla(210, 100%, 20%, 0.9)) !important;
+    box-shadow: inset 0 0 50px #000000 !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
