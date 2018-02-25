@@ -58,3 +58,15 @@
     animation: voteslide 0.5s;
     animation-fill-mode: forwards;
 }
+
+#grab-rs {
+    top: -1px;
+    border-radius: 10px 10px 0 0;
+    background: hsla(275, 50%, 50%, 0.8);
+    box-shadow: 0 0 10px #000;
+    z-index: 0;
+}
+
+#grab-rs .title {
+    border-radius: 10px 10px 0 0;
+}
