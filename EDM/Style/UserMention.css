@@ -11,7 +11,7 @@
     border: none !important;
 }
 
-#chat .cm.mention .name{
+#chat .cm.mention .name {
     color: hsl(60, 80%, 50%);
 }
 
