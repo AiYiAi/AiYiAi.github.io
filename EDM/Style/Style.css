@@ -2,11 +2,13 @@
 
 /* EN */
 
+/* CSS create by Wibla */
 /* All Rights Reserved */
 /* Any copy of this content will be handled with ambassadors */
 
 /* CZ */
 
+/* Toto css je vytvořeno Ambassadorem */
 /* Všechna práva vyhrazena */
 /* Jakékoliv kopírování tohoto css se bude řešit s Ambassadorem */
 
@@ -53,6 +55,115 @@
     background: transparent;
     color: #C4BABA;
     border: 3px solid #AD0000;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#room-settings a:hover {
+    color: hsl(215, 75%, 50%) !important;
+    text-shadow: 0 0 5px;
+}
+
+#chat a:hover {
+    color: hsl(215, 75%, 50%) !important;
+    text-shadow: 0 0 5px;
+}
+
+#search-menu .menu ul i {
+    display: inline !important;
+}
+
+#search-menu-icon {
+    display: inline !important;
+}
+
+.slider .line {
+    background: linear-gradient(to right, hsl(215, 100%, 50%), hsl(173, 50%, 50%)) !important;
+}
+
+#user-settings .slider .bar {
+    background: linear-gradient(to right, hsl(215, 100%, 50%), hsl(173, 50%, 50%)) !important;
+}
+
+#user-settings .slider .bar {
+    width: calc(100% - 1px) !important;
+}
+
+.slider .circle {
+    background: #FFFF !important;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#user-settings .slider .circle {
+    background: #FFFF !important;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#tooltip span {
+    background: radial-gradient(hsla(200, 100%, 30%, 0.9), hsla(200, 100%, 20%, 0.9));
+    border-radius: 13px 13px 13px 0
+}
+
+#tooltip.blue span {
+    background: radial-gradient(hsla(200, 100%, 30%, 0.9), hsla(200, 100%, 20%, 0.9));
+    border-radius: 13px 13px 13px 0
+}
+
+#tooltip.green span {
+    background: radial-gradient(hsla(120, 70%, 45%, 0.9), hsla(120, 70%, 40%, 0.9));
+}
+
+#tooltip.green .corner {
+    border-top: 10px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-left: 10px solid hsla(120, 70%, 40%, 0.9) !important;
+    border-bottom: 10px solid transparent !important;
+}
+
+#tooltip.green.right .corner {
+    border-top: 10px solid hsla(120, 70%, 40%, 0.9) !important;
+    border-right: 10px solid hsla(120, 70%, 40%, 0.9) !important;
+    border-left: 10px solid transparent !important;
+    border-bottom: 10px solid transparent !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#tooltip.orange span {
+    background: radial-gradient(hsla(30, 100%, 50%, 0.9), hsla(20, 100%, 40%, 0.9));
+}
+
+#tooltip.orange .corner {
+    border-top: 10px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-left: 10px solid hsla(20, 100%, 45%, 0.9) !important;
+    border-bottom: 10px solid transparent !important;
+}
+
+#tooltip.orange.right .corner {
+    border-top: 10px solid hsla(20, 100%, 45%, 0.9) !important;
+    border-right: 10px solid hsla(20, 100%, 45%, 0.9) !important;
+    border-left: 10px solid transparent !important;
+    border-bottom: 10px solid transparent !important;
+}
+
+#tooltip.purple span {
+    background: radial-gradient(hsla(280, 70%, 60%, 0.9), hsla(280, 70%, 50%, 0.9));
+}
+
+#tooltip.purple .corner {
+    border-top: 10px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-left: 10px solid hsla(280, 70%, 52%, 0.9) !important;
+    border-bottom: 10px solid transparent !important;
+}
+#tooltip.purple.right .corner {
+    border-top: 10px solid hsla(280, 70%, 52%, 0.9) !important;
+    border-right: 10px solid hsla(280, 70%, 52%, 0.9) !important;
+    border-left: 10px solid transparent !important;
+    border-bottom: 10px solid transparent !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
