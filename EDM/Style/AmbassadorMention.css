@@ -1,0 +1,16 @@
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat .mention.role-ambassador {
+    background: linear-gradient(hsla(120, 50%, 35%, 0.8), hsla(120, 50%, 25%, 0.8)),
+    linear-gradient(to right, hsla(0, 0%, 0%, 0), hsla(0, 0%, 100%, 0.2)) !important;
+    box-shadow: inset 0 0 0 1px hsl(120, 40%, 50%) !important;
+}
+#chat .mention.role-ambassador .name{
+    color: hsl(75,70%,50%) !important;
+}
+
+#chat .mention.role-ambassador .timestamp {
+    color: hsl(120, 50%, 50%) !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
