@@ -5,7 +5,7 @@
     background-color: transparent!important;
     border-style: solid;
     border-color: #40BF40;
-    border-width: 2px;
+    border-width: 1px;
     background-image: url("https://AiYiAi.github.io/EDM/Icons/Woot.png")!important;
     background-size: 100%!important;
     background-repeat: no-repeat!important;
@@ -50,7 +50,7 @@
     padding-top: 4px;
     display: block;
     border-color: white;
-    border-width: 3px;
+    border-width: 1px;
     border-style: solid;
     border-radius: 50px;
     width: 27px;
