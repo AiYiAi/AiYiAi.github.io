@@ -289,7 +289,7 @@
 
 #footer-user .info {
     background: linear-gradient(hsla(210, 5%, 10%, 0.8), hsla(210, 5%, 5%, 0.8));
-    text-shadow: 0 0 5px #0000000;
+    text-shadow: 0 0 5px #000000;
 }
 
 #footer-user .name span {
