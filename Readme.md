@@ -1,4 +1,4 @@
-[https://AiYiAi.github.io/EDM/Permission/Rights.png](https://AiYiAi.github.io/EDM/Permission/Rights.png)
+[](https://AiYiAi.github.io/EDM/Permission/Rights.png)
 # [EN]
 ## ###  CSS create by Wibla
 ## ###  All rights reserved by Wibla
