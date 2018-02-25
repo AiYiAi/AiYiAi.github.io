@@ -26,7 +26,7 @@
         "sitemod": "#E74C3C",
         "subscriber": "#F0B642",
         "silversubscriber": "#8F96A3",
-        "friend": "#ADD65C",
+        "friend": null,
         "user": null
     },
     "images": {
@@ -42,8 +42,8 @@
         "plot": null,
         "promoter": null,
         "sitemod": null,
-        "subscriber": null,
-        "silversubscriber": null
+        "subscriber": "https://AiYiAi.github.io/EDM/Icons/Subscriber.png",
+        "silversubscriber": "https://AiYiAi.github.io/EDM/Icons/SilverSubscriber.png"
     },
     "emotes": {
     	"emote_name": null
