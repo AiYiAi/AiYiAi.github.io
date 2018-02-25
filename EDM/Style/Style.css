@@ -106,3 +106,61 @@
 #dashboard {
     background: rgba(0, 0, 0, 0.5) !important;
 }
+
+.tab-menu button {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.tab-menu button.selected {
+    background: linear-gradient(hsl(200, 61%, 54%), hsl(195, 59%, 31%)) !important;
+}
+
+.tab-menu button:hover {
+    background: linear-gradient(hsla(200, 61%, 54%, 1), hsl(195, 59%, 31%));
+}
+
+#rcs-progress-container {
+    background-color: #063C46 !important;
+}
+
+#rcs-progress-container .bar {
+    background: linear-gradient(hsl(190, 65%, 56%), hsla(185, 62%, 30%, 0.9)) !important;
+}
+
+#user-menu .item.selected {
+    background: linear-gradient(hsl(220, 61%, 54%), hsl(195, 59%, 31%));
+}
+
+#playlist-menu .menu .row .count {
+    color: #3939D0;
+}
+
+#user-view {
+    background: rgba(0, 14, 41, 0.8) !important;
+}
+
+#user-menu {
+    background: rgba(0, 22, 66, 0) !important;
+}
+
+#rs-skip-button {
+    background: rgba(0, 22, 66, 0) !important;
+}
+
+#history-button {
+    background: rgba(0, 22, 66, 0) !important;
+}
+
+#vote .top {
+    background: rgba(0, 0, 71, 0.4) !important;
+}
+
+.app-header {
+    background: rgba(0, 22, 66, 0.6);
+}
+
+#room .app-right {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);    
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
