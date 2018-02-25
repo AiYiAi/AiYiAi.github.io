@@ -1,1 +1,120 @@
+#woot .icon {
+    height: 80px !important;
+    width: 80px !important;
+    margin: 0 !important;
+    top: 0 !important;
+}
 
+#woot.crowd-response .icon {
+    background: url("https//AiYiAi.github.io/EDM/Icons/Woot.png");
+}
+
+#woot.crowd-response.disabled .icon {
+    background: url("https//AiYiAi.github.io/EDM/Icons/WhiteWoot.png");
+}
+
+#woot.crowd-response.selected .icon {
+    background: url("https//AiYiAi.github.io/EDM/Icons/WhiteWoot.png");
+}
+
+#woot {
+    height: 80px !important;
+    width: 80px !important;
+    border-radius: 50%;
+    border: 2px solid;
+    bottom: 10px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#woot:hover {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+#woot:not(.selected) {
+    border: 2px solid #40BF40;
+}
+
+#woot.selected {
+    background: #40BF40 !important;
+}
+
+#woot.crowd-response.disabled .icon:before {
+    content: url("https//AiYiAi.github.io/EDM/Icons/WhiteWoot.png");
+    position: absolute;
+    right: 0px;
+    padding: 0 0px;
+}
+
+#woot.crowd-response.selected .icon:before {
+    content: url("https//AiYiAi.github.io/EDM/Icons/WhiteWoot.png");
+    position: absolute;
+    right: 0px;
+    padding: 0 0px;
+}
+
+#woot.crowd-response .icon:before {
+    content: url("https//AiYiAi.github.io/EDM/Icons/Woot.png");
+    position: absolute;
+    right: 0px;
+    padding: 0 0px;
+}
+
+#woot:hover .icon:before {
+    -webkit-animation-name: woot;
+    animation-name: woot;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+}
+
+#woot .icon:before {
+    opacity: 0;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@-webkit-keyframes woot {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(-1em);
+    transform: translateY(-1em);
+  }
+}
+
+#woot.selected .icon {
+    animation: pulse 1s ease infinite;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+#woot {
+    -webkit-transition:     all 0.3s ease;
+    -moz-transition:        all 0.3s ease;
+    -o-transition:          all 0.3s ease;
+    transition:             all 0.3s ease;
+}
+
+#woot .top {
+    -webkit-transition:     all 0.3s ease;
+    -moz-transition:        all 0.3s ease;
+    -o-transition:          all 0.3s ease;
+    transition:             all 0.3s ease;
+}
+
+#woot-rs .title {
+    background-color: #40BF40;
+}
