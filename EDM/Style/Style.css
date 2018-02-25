@@ -57,3 +57,52 @@
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
+.dialog {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#dialog-preview .dialog-frame .button.submit {
+    color: #FFFFFF;
+}
+
+#dialog-preview .dialog-frame .button.submit {
+    background: 0 !important;
+}
+
+#chat .message:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+#chat .mention:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+#chat .skip:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+#chat .moderation:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+#chat .emote:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+#chat .update:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+#chat .welcome:nth-child(2n+1) {
+    overflow: hidden;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#footer-user .info {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#dashboard {
+    background: rgba(0, 0, 0, 0.5) !important;
+}
