@@ -43,10 +43,6 @@
     }
 }
 
-.votes-rs {
-    display: none!important;
-}
-
 #vote .crowd-response .value {
     display: none!important;
 }
