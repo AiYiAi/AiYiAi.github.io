@@ -195,3 +195,79 @@
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#playlist-button {
+    background: rgba(64, 141, 196, 0.5) !important;
+}
+
+#user-view {
+    background: #001129;
+}
+
+#waitlist .list .sortable-placeholder {
+    background: #001129;
+}
+
+#footer-user .back {
+    background: linear-gradient(hsl(205, 61%, 53%), hsla(200, 62%, 21%, 0.9));
+}
+
+#playlist-activate-button span {
+    color: #39B7D0;
+}
+
+.media-list .row.selected {
+    background: rgba(36, 148, 138, 0.7) !important;
+}
+
+#playlist-menu .menu .row.selected {
+    background: #22407C;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat span.emoji-sizer {
+    width: 19px !important;
+    height: 19px !important;
+}
+
+#chat .emote .text {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#chat-messages .text {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+#chat .from {
+    position: relative;
+    margin-bottom: 3px;
+    font-size: 13px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#chat-input-field {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    width: 305px;
+    height: 18px !important; 
+    outline: 0;
+    border: 0;
+    background: 0 0;
+    color: #FFFFFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.experience .xp .bar .progress {
+    background: linear-gradient(hsl(170, 61%, 54%), hsl(200, 59%, 31%));
+}
+
+#footer-user .info .bar .progress {
+    background: rgba(64, 108, 196, 1);
+}
