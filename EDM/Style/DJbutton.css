@@ -8,7 +8,7 @@
 
 #dj-button.is-quit .left {
     background: #121214;
-    border-radius: 8px;
+    border-radius: 10px;
     /border-left-width: 4px;
 }
 
@@ -20,50 +20,50 @@
 
 #dj-button.is-wait .left{
     background: #121214;
-    border-radius: 8px;
+    border-radius: 10px;
     /border-left-width: 4px;
 }
 
 #dj-button.is-locked .left{
     background: #121214;
-    border-radius: 8px;
+    border-radius: 10px;
     /border-left-width: 4px;
 }
 
 #dj-button.is-full .left {
     background: #121214;
-    border-radius: 8px;
+    border-radius: 10px;
     /border-left-width: 4px;
 }
 
 #dj-button.is-quit .left {
-    border-left: 3px solid #F43E3E;
+    border-left: 2px solid #F43E3E;
 }
 
 #dj-button.is-leave .left {
-    border-left: 3px solid #F43E3E;
+    border-left: 2px solid #F43E3E;
 }
 
 #dj-button.is-wait .left {
-    border-left: 3px solid #00C8FF;
+    border-left: 2px solid #00C8FF;
 }
 
 #dj-button.is-locked .left {
-    border-left: 3px solid #7740BF;
+    border-left: 2px solid #7740BF;
 }
 
 #dj-button.is-full .left {
-    border-left: 3px solid #FFFFFF;
+    border-left: 2px solid #FFFFFF;
 }
 
 #dj-button {
     background: #222224;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 #dj-button {
-    height: 61px;
-    width: 204px;
+    height: 65px;
+    width: 205px;
     background: none;
 }
 
@@ -72,56 +72,56 @@
 }
 
 #dj-button.is-quit {
-    border: 3px solid #F43E3E;
+    border: 2px solid #F43E3E;
 }
 
 #dj-button.is-leave {
-    border: 3px solid #F43E3E;
+    border: 2px solid #F43E3E;
 }
 
 #dj-button.is-wait {
-    border: 3px solid #00C8FF;
+    border: 2px solid #00C8FF;
 }
 
 #dj-button.is-join {
-    border: 3px solid #00C8FF;
+    border: 2px solid #00C8FF;
 }
 
 #dj-button.is-locked {
-    border: 3px solid #941313;
+    border: 2px solid #941313;
 }
 
 #dj-button.is-full {
-    border: 3px solid #9E9A95;
+    border: 2px solid #9E9A95;
 }
 
 #dj-button.is-quit .left {
     background: none;
-    border-radius: 0px;
+    border-radius: 10px;
     border-left: none;
 }
 
 #dj-button.is-leave .left {
     background: none;
-    border-radius: 0px;
+    border-radius: 10px;
     border-left: none;
 }
 
 #dj-button.is-wait .left {
     background: none;
-    border-radius: 0px;
+    border-radius: 10px;
     border-left: none;
 }
 
 #dj-button.is-locked .left {
     background: none;
-    border-radius: 0px;
+    border-radius: 10px;
     border-left: none;
 }
 
 #dj-button.is-full .left {
     background: none;
-    border-radius: 0px;
+    border-radius: 10px;
     border-left: none;
 }
 
