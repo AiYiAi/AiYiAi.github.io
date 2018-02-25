@@ -1,3 +1,5 @@
+[https://AiYiAi.github.io/EDM/Permission/Rights.png](url)
+
 # [EN]
 ## ###  CSS create by Wibla
 ## ###  All rights reserved by Wibla
