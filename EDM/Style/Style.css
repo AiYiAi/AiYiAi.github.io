@@ -865,3 +865,43 @@ user-content .avatars .cell.selected .top {
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.notification {
+    border-radius: 20px;
+    background: rgba(50, 100, 255, 0.7);
+}
+
+#toast-notifications .left {
+    border-radius: 20px 0 0 20px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.4), rgba(0, 0, 0, 0)) !important;
+}
+
+#toast-notifications .right {
+    border-radius: 0 20px 20px 0;
+    background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0)) !important;
+}
+
+.drag-media-box {
+    margin-top: 2px; margin-left: 2px;
+    background: linear-gradient(hsla(210, 50%, 50%, 0.8), hsla(220, 50%, 50%, 0.8));
+    border-radius: 0 10px 10px 10px;
+}
+
+.drag-media-corner {
+    top: -2px; left: -2px;
+}
+
+#playlist-menu .menu .row.drag-over {
+    background: hsla(210, 80%, 50%, 0.3);
+}
+
+#playlist-create.drag-over {
+    background: linear-gradient(hsl(210, 50%, 50%), hsl(220, 50%, 50%));
+}
+
+#playlist-create .drop-zone {
+    margin: 0;
+    padding: 24px 27px;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
