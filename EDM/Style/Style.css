@@ -1147,14 +1147,14 @@ user-content .avatars .cell.selected .top {
 }
 
 #media-panel .media-list .playlist-media-item.selected {
-    color: #EEEEEEE;
+    color: #EEEEEE;
     background: linear-gradient(hsl(220, 100%, 20%), hsl(220, 100%, 10%));
     box-shadow: inset 0 0 1px 1px hsl(205, 100%, 30%);
     border-radius: 7px;
 }
 
 #media-panel .media-list .playlist-media-last-item.selected {
-    color: #EEEEEEE;
+    color: #EEEEEE;
     background: linear-gradient(hsl(220, 100%, 20%), hsl(220, 100%, 10%));
     box-shadow: inset 0 0 1px 1px hsl(205, 100%, 30%);
     border-radius: 7px;
