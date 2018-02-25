@@ -21,7 +21,7 @@
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
-.is-you .name{
+.is-you .name {
     color: hsl(200, 100%, 50%);
 }
 
@@ -58,11 +58,11 @@
 }
 
 #chat .mention.role-friend .name{
-    color: hsl(80,60%,60%) !important;
+    color: hsl(80, 60%, 60%) !important;
 }
 
 #chat .mention.role-friend .timestamp {
-    color: hsl(80,60%,60%) !important;
+    color: hsl(80, 60%, 60%) !important;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
