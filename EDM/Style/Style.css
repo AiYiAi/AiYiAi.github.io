@@ -236,4 +236,8 @@
     background: linear-gradient(hsl(210, 60%, 40%), hsl(210, 60%, 20%));
 }
 
+.app-header #history-button.selected {
+    background: linear-gradient(hsl(210, 60%, 40%), hsl(210, 60%, 20%));
+}
+
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
