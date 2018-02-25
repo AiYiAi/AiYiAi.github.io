@@ -500,3 +500,156 @@
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.tab-menu .selected {
+    background: linear-gradient(hsl(210, 80%, 40%), hsl(210, 80%, 30%)) !important;
+    box-shadow: inset 1px 1px 10px -1px hsla(220, 80%, 50%, 0.5) !important;
+}
+
+.dropdown.open {
+    background: linear-gradient(hsl(210, 80%, 40%), hsl(210, 80%, 30%)) !important;
+    box-shadow: inset 1px 1px 10px -1px hsla(220, 80%, 50%, 0.5) !important;
+}
+
+.dropdown dt {
+    border-radius: 10px;
+    box-shadow: inset -39px 0 0 hsla(0, 0%, 100%, 0.2) !important;
+}
+
+.dropdown.open {
+    border-radius: 10px 10px 0 0;
+    font-weight: normal;
+}
+
+.dropdown.open dt {
+    border-radius: 10px 10px 0 0;
+    font-weight: normal;
+}
+
+#dialog-user-role .role-menu:hover {
+    border-radius: 10px 10px 0 0;
+    font-weight: normal;
+}
+
+.dropdown dt .level {
+    color: #EEEEEE !important;
+}
+
+.dropdown dd span {
+    color: #AAAAAA;
+}
+
+.dropdown dd .row:hover span {
+    color: #FFFFFF;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.dropdown dd {
+    background: hsla(210, 10%, 10%, 0.8);
+}
+
+#chat-suggestion {
+    background: hsla(210, 10%, 10%, 0.8);
+}
+
+#dialog-user-role .role-menu .menu ul li {
+    background: hsla(210, 10%, 10%, 0.8);
+}
+
+#search-suggestion li {
+    background: hsla(210, 10%, 10%, 0.8);
+}
+
+#dialog-restricted-media .row.selected {
+    background: hsla(210, 10%, 10%, 0.8);
+}
+
+#dialog-user-role .role-menu .menu ul li {
+    border-color: hsla(210, 10%, 8%, 0.8);
+}
+
+.dropdown dd .row:hover {
+    background: linear-gradient(hsla(210, 10%, 20%, 0.8), hsla(210, 10%, 15%, 0.8)) !important;
+}
+
+.chat-suggestion-item[style='background: rgb(45, 49, 58);'] {
+    background: linear-gradient(hsla(210, 10%, 20%, 0.8), hsla(210, 10%, 15%, 0.8)) !important;
+}
+
+#search-suggestion .search-suggestion-item.selected {
+    background: linear-gradient(hsla(210, 10%, 20%, 0.8), hsla(210, 10%, 15%, 0.8)) !important;
+}
+
+#dialog-restricted-media .row.selected {
+    background: linear-gradient(hsla(210, 10%, 20%, 0.8), hsla(210, 10%, 15%, 0.8)) !important;
+}
+
+#dialog-user-role .role-menu .menu ul li:hover {
+    background: linear-gradient(hsla(210, 10%, 20%, 0.8), hsla(210, 10%, 15%, 0.8)) !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#user-menu .count {
+    background: radial-gradient(hsl(215, 100%, 50%), hsl(210, 100%, 30%)) !important;
+    box-shadow: inset 0 0 10px hsl(200, 100%, 50%);
+    text-shadow: 0 0 3px #000000;
+}
+
+.requests .count {
+    background: radial-gradient(hsl(215, 100%, 50%), hsl(210, 100%, 30%)) !important;
+    box-shadow: inset 0 0 10px hsl(200, 100%, 50%);
+    text-shadow: 0 0 3px #000000;
+}
+
+.buttons .count {
+    background: radial-gradient(hsl(215, 100%, 50%), hsl(210, 100%, 30%)) !important;
+    box-shadow: inset 0 0 10px hsl(200, 100%, 50%);
+    text-shadow: 0 0 3px #000000;
+}
+
+.request-count {
+    background: radial-gradient(hsl(215, 100%, 50%), hsl(210, 100%, 30%)) !important;
+    box-shadow: inset 0 0 10px hsl(200, 100%, 50%);
+    text-shadow: 0 0 3px #000000;
+}
+
+.friends .header i {
+    background: radial-gradient(hsl(215, 100%, 50%), hsl(210, 100%, 30%)) !important;
+    box-shadow: inset 0 0 10px hsl(200, 100%, 50%);
+    text-shadow: 0 0 3px #000000;
+}
+
+#user-menu .selected .count {
+    background: radial-gradient(hsl(210, 10%, 20%), hsl(0, 0%, 0%)) !important;
+    box-shadow: inset 0 0 1px #000000;
+    font-weight: bold;
+}
+
+.button:hover .count {
+    background: radial-gradient(hsl(210, 10%, 20%), hsl(0, 0%, 0%)) !important;
+    box-shadow: inset 0 0 1px #000000;
+    font-weight: bold;
+}
+
+#friends-button.selected span {
+    background: radial-gradient(hsl(210, 10%, 20%), hsl(0, 0%, 0%)) !important;
+    box-shadow: inset 0 0 1px #000000;
+    font-weight: bold;
+}
+
+#user-friends .requests.selected span {
+    background: radial-gradient(hsl(210, 10%, 20%), hsl(0, 0%, 0%)) !important;
+    box-shadow: inset 0 0 1px #000000;
+    font-weight: bold;
+}
+
+.friends .header:hover i {
+    background: radial-gradient(hsl(210, 10%, 20%), hsl(0, 0%, 0%)) !important;
+    box-shadow: inset 0 0 1px #000000;
+    font-weight: bold;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
