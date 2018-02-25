@@ -803,8 +803,8 @@ user-content .avatars .cell.selected .top {
 }
 
 #the-user-profile .meta {
-    background: hsla(200, 100%, 90%, 0.5) !important;
-    box-shadow: 0 0 0px 15px hsla(200, 100%, 90%, 0.5);
+    background: hsla(200, 100%, 90%, 0.05) !important;
+    box-shadow: 0 0 0px 15px hsla(200, 100%, 90%, 0.05);
 }
 
 #the-user-profile .experience.section .header {
