@@ -1,0 +1,82 @@
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat .cm.mention span {
+    color: hsl(60,70%,50%);
+}
+
+#chat .mention {
+    background: linear-gradient(hsla(60, 80%, 30%, 0.8), hsla(60, 80%, 20%, 0.8)),
+    linear-gradient(to right, hsla(0, 0%, 0%, 0), hsla(0, 0%, 100%, 0.2)) !important;
+    box-shadow: inset 0 0 0 1px hsl(60, 30%, 50%) !important;
+    border: none !important;
+}
+
+#chat .cm.mention .name{
+    color: hsl(60, 80%, 50%);
+}
+
+#chat .cm.mention .timestamp {
+    color: hsl(60, 80%, 50%);
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.is-you .name{
+    color: hsl(200, 100%, 50%);
+}
+
+#chat .cm.role-you .un {
+    color: hsl(200, 100%, 50%);
+}
+
+#chat .mention.role-you {
+    background: linear-gradient(hsla(200, 100%, 20%, 0.8), hsla(200, 100%, 11%, 0.8)),
+    linear-gradient(to right, hsla(0, 0%, 0%, 0), hsla(0, 0%, 100%, 0.2)) !important;
+    box-shadow: inset 0 0 0 1px hsl(200, 100%, 30%) !important;
+    border: none !important;
+}
+
+#chat .mention.is-you .name {
+    color: hsl(200, 100%, 40%) !important;
+}
+
+#chat .mention.is-you .timestamp {
+    color: hsl(200, 100%, 40%) !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat .cm.role-friend .un {
+    color: hsl(80, 60%, 50%);
+}
+
+#chat .mention.role-friend {
+    background: linear-gradient(hsla(80, 60%, 20%, 0.8), hsla(80, 50%, 13%, 0.8)),
+    linear-gradient(to right, hsla(0, 0%, 0%, 0), hsla(0, 0%, 100%, 0.2)) !important;
+    box-shadow: inset 0 0 0 1px hsl(80, 50%, 30%) !important;
+    border: none !important;
+}
+
+#chat .mention.role-friend .name{
+    color: hsl(80,60%,60%) !important;
+}
+
+#chat .mention.role-friend .timestamp {
+    color: hsl(80,60%,60%) !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat .cm.mention .msg {
+    background: none !important;
+}
+
+#waitlist .list .user .name i {
+    display: block; 
+}
+
+.app-right .friends .list .row.is-offline {
+    filter: saturate(.5);
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
