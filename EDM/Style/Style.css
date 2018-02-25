@@ -989,3 +989,75 @@ user-content .avatars .cell.selected .top {
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#media-panel #playlist-activate-button {
+    border-radius: 5px 0 0 5px;
+}
+
+#media-panel #playlist-activate-button span {
+    color: #FFFFFF !important;
+}
+
+#media-panel #playlist-activate-button:hover {
+    background: linear-gradient(hsl(200, 100%, 30%), hsl(210, 100%, 20%));
+}
+
+#media-panel #playlist-activate-button.active {
+    background: linear-gradient(hsl(200,100%,30%), hsl(210, 100%, 20%));
+    color: hsl(220, 100%, 50%) !important;
+}
+
+#playlist-activate-button i {
+    background-position: -70px -140px;
+}
+
+#playlist-menu .row i {
+    background-position: -70px -140px;
+}
+
+#media-panel #playlist-activate-button.active span {
+    color: #EEEEEE !important;
+}
+
+#dialog-user-role .name {
+    color: #EEEEEE !important;
+}
+
+#media-panel #playlist-activate-button.active:hover {
+    cursor: default !important;
+}
+
+.media-list .actions {
+    top: 0 !important;
+    height: 55px;
+}
+
+#media-panel #playlist-edit-button {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+#media-panel #playlist-shuffle-button {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+#media-panel #playlist-delete-button {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+#media-panel #playlist-activate-button {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+.media-list .actions {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+.media-list .row.now-playing .actions {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+.media-list .selected .actions {
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
