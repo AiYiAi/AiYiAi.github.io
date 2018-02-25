@@ -1,11 +1,11 @@
 #meh {
-    width: 75px!important;
-    height: 75px!important;
+    width: 50px!important;
+    height: 50px!important;
     transition: ease-in-out 0.2s!important;
     background-color: transparent!important;
     border-style: solid;
     border-color: #BF4040;
-    border-width: 2px;
+    border-width: 1px;
     background-image: url("https://AiYiAi.github.io/EDM/Icons/Meh.png")!important;
     background-size: 100%!important;
     background-repeat: no-repeat!important;
@@ -43,7 +43,7 @@
     border-color: white;
     border-width: 3px;
     border-style: solid;
-    border-radius: 100px;
+    border-radius: 50px;
     width: 27px;
     height: 22px;
     margin-left: 22px;
@@ -55,4 +55,16 @@
     display: block;
     animation: voteslide .5s;
     animation-fill-mode: forwards;
+}
+
+#meh-rs {
+    top: -1px;
+    border-radius: 10px 10px 0 0;
+    background: hsla(0, 50%, 50%, 0.8);
+    box-shadow: 0 0 10px #000;
+    z-index: 0;
+}
+
+#meh-rs .title {
+    border-radius: 10px 10px 0 0;
 }
