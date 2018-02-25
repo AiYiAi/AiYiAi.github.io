@@ -36,21 +36,6 @@
     animation-fill-mode: forwards;
 }
 
-#meh.crowd-response .bottom .value {
-    font-size: 14px!important;
-    padding-top: 4px;
-    display: block;
-    border-color: white;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 50px;
-    width: 27px;
-    height: 22px;
-    margin-left: 22px;
-    margin-top: -25px;
-    background-color: #BF4040;
-}
-
 #meh:hover .bottom {
     display: block;
     animation: voteslide .5s;
@@ -60,7 +45,7 @@
 #meh-rs {
     top: -1px;
     border-radius: 10px 10px 0 0;
-    background: hsla(0, 50%, 50%, 0.8);
+    background: hsla(0, 50%, 50%, 0.4);
     box-shadow: 0 0 10px #000;
     z-index: 0;
 }
