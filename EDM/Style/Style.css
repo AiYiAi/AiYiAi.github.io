@@ -144,11 +144,11 @@
 }
 
 #rs-skip-button {
-    background: rgba(0, 22, 66, 0) !important;
+    background: rgba(0, 0, 0, 1) !important;
 }
 
 #history-button {
-    background: rgba(0, 22, 66, 0) !important;
+    background: rgba(0, 0, 0, 1) !important;
 }
 
 #vote .top {
@@ -156,11 +156,42 @@
 }
 
 .app-header {
-    background: rgba(0, 22, 66, 0.6);
+    background: rgba(0, 0, 0, 1);
 }
 
 #room .app-right {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);    
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.header-panel-button.selected {
+    background-color: rgba(56, 204, 191, 0.5)!important;
+}
+
+#footer-user .buttons .button.store:hover {
+    background: rgba(25, 145, 204, 0.5);
+}
+
+#footer-user .buttons .button.inventory:hover {
+    box-shadow: none
+}
+
+#footer-user .buttons .button:hover {
+    background: linear-gradient(to bottom, rgba(30, 64, 98, 0.2) 0, rgba(38, 67, 125, 0.5) 100%) !important;
+}
+
+#chat-input {
+    border-radius: 10px;
+    background: rgba(54, 136, 161, 0.5) !important;
+}
+
+#footer .bar-button .section .chevron:before {
+    background: #4098C4;
+}
+
+#footer .bar-button .section .chevron:after {
+    background: #4098C4;
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
