@@ -1172,3 +1172,283 @@ user-content .avatars .cell.selected .top {
 }
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat-header {
+    background: rgba(30, 35, 40, 0.7);
+    border: none !important;
+}
+
+#chat-messages {
+    border-color: #555555;
+    box-shadow: 0 51px 0 rgba(30, 35, 40, 0.7);
+}
+
+#chat-messages::-webkit-scrollbar {
+    width: 7px !important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, 0.7);
+}
+
+.dropdown dd::-webkit-scrollbar {
+    width: 7px !important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, 0.7);
+}
+
+#woot-rs-list::-webkit-scrollbar {
+    width: 7px !important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, 0.7);
+}
+
+#grab-rs-list::-webkit-scrollbar {
+    width: 7px !important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, 0.7);
+}
+
+#meh-rs-list::-webkit-scrollbar {
+    width: 7px !important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, 0.7);
+}
+
+.dialog::-webkit-scrollbar {
+    width: 7px !important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, 0.7);
+}
+
+#chat-messages::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+.dropdown dd::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+#woot-rs-list::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+#grab-rs-list::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+#meh-rs-list::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+.dialog::-webkit-thumb {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+.jspDrag {
+    background: linear-gradient(to right, hsl(210, 10%, 50%), hsl(210, 10%, 20%));
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, 0.5);
+    border-radius: 5px;
+}
+
+.jspTrack {
+    box-shadow: inset -1px 0 10px hsla(0, 0%, 20%, 1);
+}
+
+.app-right #chat-input {
+    border-radius: 20px;
+    background: linear-gradient(to top, hsla(220, 100%, 15%, 0.7), hsla(220, 100%, 10%, 0.7));
+}
+
+#dashboard .search {
+    border-radius: 20px;
+    background: linear-gradient(to top, hsla(220, 100%, 15%, 0.7), hsla(220, 100%, 10%, 0.7));
+}
+
+#search-bar {
+    border-radius: 20px;
+    background: linear-gradient(to top, hsla(220, 100%, 15%, 0.7), hsla(220, 100%, 10%, 0.7));
+}
+
+#filter-bar {
+    border-radius: 20px;
+    background: linear-gradient(to top, hsla(220, 100%, 15%, 0.7), hsla(220, 100%, 10%, 0.7));
+}
+
+#user-friends .search {
+    border-radius: 20px;
+    background: linear-gradient(to top, hsla(220, 100%, 15%, 0.7), hsla(220, 100%, 10%, 0.7));
+}
+
+.app-right .friends .list-header .input-background {
+    border-radius: 20px;
+    background: linear-gradient(to top, hsla(220, 100%, 15%, 0.7), hsla(220, 100%, 10%, 0.7));
+}
+
+div.focused {
+    color: #EEEEEE !important;
+    box-shadow: inset 0 0 0 1px #2070DF !important;
+    background: linear-gradient(to top, hsl(220, 100%, 30%), hsl(220, 100%, 20%)) !important;
+}
+
+#chat-input-field {
+    color: #888888 !important;
+    font-weight: bold;
+}
+
+#chat-input.focused #chat-input-field {
+    color: #EEEEEE !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#chat .cm {
+	animation: fadein .2s;
+}
+#chat .cm {
+	background: linear-gradient(hsla(220,10%,20%,.5), hsla(220,10%,15%,.5));
+	box-shadow: inset 1px 1px 0 hsla(220,10%,20%,.8);
+}
+#chat .cm.message:nth-child(odd) {
+	background: linear-gradient(hsla(220,10%,10%,.5), hsla(220,10%,12%,.5));
+	box-shadow: inset 1px 1px 0 hsla(220,10%,5%,.8);
+	color: #ccc;
+}
+
+#chat .cm.message .timestamp {
+    color: #818285;
+}
+
+#chat .cm .badge-box {
+    background: transparent !important;
+}
+
+#chat .cm .delete-button::selection {
+    background: transparent;
+}
+
+#chat .cm .delete-button {
+    border-radius: 4px;
+    background: linear-gradient(hsl(0, 0%, 30%), hsl(0, 0%, 40%));
+    box-shadow: inset 0 0 0 1px hsl(0, 0%, 50%);
+    transition: all linear .25s;
+}
+
+#chat .cm .delete-button:hover {
+    background: linear-gradient(hsl(5, 100%, 60%), hsl(5, 100%, 50%));
+    box-shadow: 0 0 10px hsl(5, 100%, 50%);
+    color: #000000;
+}
+
+#chat .disconnect {
+    background: rgb(0, 0, 0) !important;
+    opacity: 0.6 !important;
+}
+
+#user-lists .group {
+    background: linear-gradient(hsl(220, 10%, 10%), hsl(220, 10%, 5%)) !important;
+}
+
+#user-lists .user:hover {
+    background: linear-gradient(to right, hsla(200, 100%, 20%, 0.5), hsla(200, 100%, 40%, 0.5)) !important;
+}
+
+#user-lists .list.staff .user:hover .name {
+    color: #EEEEEE !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#user-lists .bans .user .name {
+    color: hsl(0, 100%, 70%);
+}
+
+#user-lists .mutes .user .name {
+    color: hsl(0, 100%, 70%);
+}
+
+#user-lists .bans .user .label {
+    color: #DDDDDD !important;
+}
+
+#user-lists .mutes .user .label {
+    color: #DDDDDD !important;
+}
+
+#user-lists .bans .user .timestamp {
+    color: hsl(15, 20% ,40%) !important;
+}
+
+#user-lists .mutes .user .timestamp {
+    color: hsl(15, 20% ,40%) !important;
+}
+
+#user-lists .bans .user .duration {
+    color: hsl(15, 20%, 40%) !important;
+}
+
+#user-lists .bans .user .duration {
+    color: hsl(15, 20%, 40%) !important;
+}
+
+#user-lists .bans .user .moderator {
+    color: hsl(15, 100%, 70%) !important;
+}
+
+#user-lists .mutes .user .moderator {
+    color: hsl(15, 100%, 70%) !important;
+}
+
+#user-lists .bans .user:hover {
+    background: linear-gradient(to right, hsla(0, 70%, 20%, 0.5), hsla(20, 70%, 40%, 0.5)) !important;
+}
+
+#user-lists .mutes .user:hover {
+    background: linear-gradient(to right, hsla(0, 70%, 20%, 0.5), hsla(20, 70%, 40%, 0.5)) !important;
+}
+
+#user-lists .bans .user:hover .name {
+    color: hsl(15, 100%, 60%);
+}
+
+#user-lists .mutes .user:hover .name {
+    color: hsl(15, 100%, 60%);
+}
+
+#user-lists .bans .user:hover .label {
+    color: #EEEEEE !important;
+}
+
+#user-lists .mutes .user:hover .label {
+    color: #EEEEEE !important;
+}
+
+#user-lists .bans .user:hover .timestamp {
+    color: hsl(0, 10%, 70%) !important;
+}
+
+#user-lists .mutes .user:hover .timestamp {
+    color: hsl(0, 10%, 70%) !important;
+}
+
+#user-lists .bans .user:hover .unban {
+    color: hsl(15, 70%, 50%) !important
+}
+
+#user-lists .mutes .user:hover .unban {
+    color: hsl(15, 70%, 50%) !important
+}
+
+#user-lists .bans .user:hover .moderator {
+    color: hsl(15, 100%, 70%) !important;
+}
+
+#user-lists .mutes .user:hover .moderator {
+    color: hsl(15, 100%, 70%) !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
