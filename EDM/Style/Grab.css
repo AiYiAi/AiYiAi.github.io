@@ -1,6 +1,6 @@
 #grab {
-    width: 60px!important;
-    height: 60px!important;
+    width: 65px!important;
+    height: 65px!important;
     transition: ease-in-out 0.2s!important;
     background-color: transparent!important;
     border-style: solid;
@@ -16,12 +16,12 @@
 }
 
 #grab.selected {
-    background-color: rgba(138, 64, 191, 0.2)!important;
+    background-color: rgba(138, 64, 191, 0.5)!important;
     transition: ease-in-out 0.2s!important;
 }
 
 #grab:hover {
-    background-color: rgba(138, 64, 191, 0.2)!important;
+    background-color: rgba(138, 64, 191, 0.5)!important;
     transition: ease-in-out 0.2s!important;
 }
 
