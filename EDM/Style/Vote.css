@@ -7,10 +7,6 @@
     font-size: 11px!important;
 }
 
-.votes-rs {
-    display: none!important;
-}
-
 @keyframes voteslide {
     0% {
         top: 20px;
