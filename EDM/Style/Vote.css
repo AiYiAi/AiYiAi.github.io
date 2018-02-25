@@ -1,1 +1,33 @@
+#vote .label{
+    display: none !important;
+}
 
+#vote .value{
+    top: 25px !important;
+}
+
+#vote .top {
+    height: 80px !important;
+    width: 80px !important;
+    margin: 0 !important;
+    top: 0 !important;
+}
+
+#vote .bottom{
+    background: rgba(0, 0, 0, 0) !important;
+}
+
+#vote .crowd-response.disabled .bottom {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+#vote {
+    -webkit-transition:     all 0.3s ease;
+    -moz-transition:        all 0.3s ease;
+    -o-transition:          all 0.3s ease;
+    transition:             all 0.3s ease;
+}
+
+.votes-rs {
+    background-color: rgba(0, 0, 0, 0.50) !important;
+}
