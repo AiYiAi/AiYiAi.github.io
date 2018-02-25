@@ -1,1 +1,121 @@
+#meh .icon {
+    height: 80px !important;
+    width: 80px !important;
+    margin: 0 !important;
+    top: 0 !important;
+}
 
+#meh.crowd-response .icon {
+    background: url("https://AiYiAi.github.io/EDM/Icons/Meh.png");
+}
+
+#meh.crowd-response.disabled .icon {
+    background: url("https://AiYiAi.github.io/EDM/Icons/WhiteMeh.png");
+}
+
+#meh.crowd-response.selected .icon {
+    background: url("https://AiYiAi.github.io/EDM/Icons/WhiteMeh.png");
+}
+
+#meh {
+    height: 80px !important;
+    width: 80px !important;
+    border-radius: 50%;
+    border: 2px solid;
+    bottom: 10px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#meh:hover {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+#meh:not(.selected) {
+    border: 2px solid #BF4040;
+}
+
+#meh.selected{
+    background: #BF4040 !important;
+}
+
+#meh.crowd-response.disabled .icon:after {
+    content: url("https://AiYiAi.github.io/EDM/Icons/WhiteMeh.png");
+    position: absolute;
+    right: 0px;
+    padding: 0 0;
+}
+
+#meh.crowd-response.selected .icon:after {
+    content: url("https://AiYiAi.github.io/EDM/Icons/WhiteMeh.png");
+    position: absolute;
+    right: 0px;
+    padding: 0 0;
+}
+
+#meh.crowd-response .icon:after {
+    content: url("https://AiYiAi.github.io/EDM/Icons/Meh.png");
+    position: absolute;
+    right: 0px;
+    padding: 0 0;
+}
+
+#meh:hover .icon:after {
+    -webkit-animation-name: meh;
+    animation-name: meh;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+}
+
+#meh .icon:after {
+    opacity: 0;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes meh {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(1em);
+    transform: translateY(1em);
+  }
+}
+
+#meh.selected .icon {
+    animation: pulse 1s ease infinite;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+#meh {
+    -webkit-transition:     all 0.3s ease;
+    -moz-transition:        all 0.3s ease;
+    -o-transition:          all 0.3s ease;
+    transition:             all 0.3s ease;
+}
+
+#meh .top {
+    -webkit-transition:     all 0.3s ease;
+    -moz-transition:        all 0.3s ease;
+    -o-transition:          all 0.3s ease;
+    transition:             all 0.3s ease;
+}
+
+#meh-rs .title {
+    background-color: #BF4040;
+}
