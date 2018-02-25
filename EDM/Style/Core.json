@@ -24,9 +24,9 @@
         "plot": "#F2A15A",
         "promoter": "#20DFB9",
         "sitemod": "#E74C3C",
-        "subscriber": null,
-        "silversubscriber": null,
-        "friend": null,
+        "subscriber": "#F0B642",
+        "silversubscriber": "#8F96A3",
+        "friend": "#ADD65C",
         "user": null
     },
     "images": {
