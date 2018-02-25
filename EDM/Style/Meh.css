@@ -51,8 +51,8 @@
 }
 
 #meh-rs .title {
-	background: linear-gradient(225deg, hsla(0, 50%, 50%, 0.4), hsla(0, 50%, 50%, 0.4)) !important;
-	box-shadow: inset 0 0 10px hsl(0, 100%, 50%) !important;
+    background: linear-gradient(225deg, hsla(0, 50%, 50%, 0.4), hsla(0, 50%, 50%, 0.4)) !important;
+    box-shadow: inset 0 0 10px hsl(0, 100%, 50%) !important;
 }
 
 #meh-rs .title {
