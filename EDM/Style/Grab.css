@@ -1,14 +1,13 @@
 #grab {
-    width: 65px!important;
-    height: 65px!important;
+    width: 75px!important;
+    height: 75px!important;
     transition: ease-in-out 0.2s!important;
     background-color: transparent!important;
     border-style: solid;
     border-color: #8A40BF;
-    border-radius: 200px;
     border-width: 2px;
     background-image: url("https://AiYiAi.github.io/EDM/Icons/Grab.png")!important;
-    background-size: 70%!important;
+    background-size: 100%!important;
     background-repeat: no-repeat!important;
     background-position: center!important;
     margin-left: 2px!important;
