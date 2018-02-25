@@ -1,6 +1,6 @@
 #meh {
-    width: 60px!important;
-    height: 60px!important;
+    width: 65px!important;
+    height: 65px!important;
     transition: ease-in-out 0.2s!important;
     background-color: transparent!important;
     border-style: solid;
@@ -14,12 +14,12 @@
 }
 
 #meh.selected {
-    background-color: rgba(191, 64, 64, 0.2)!important;
+    background-color: rgba(191, 64, 64, 0.5)!important;
     transition: ease-in-out 0.2s!important;
 }
 
 #meh:hover {
-    background-color: rgba(191, 64, 64, 0.2)!important;
+    background-color: rgba(191, 64, 64, 0.5)!important;
     transition: ease-in-out 0.2s!important;
 }
 
