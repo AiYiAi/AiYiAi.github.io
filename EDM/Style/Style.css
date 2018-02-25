@@ -653,3 +653,215 @@
 
 /* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
 
+.grid .cell {
+    border-radius: 30px;
+    background: radial-gradient(hsl(220, 50%, 40%), hsl(220, 50%, 20%)) !important;
+    box-shadow: 0 0 10px #000000;
+}
+
+.grid .cell .bar {
+    background: linear-gradient(hsl(210, 10%, 15%), hsl(210, 10%, 10%)) !important;
+}
+
+.grid .cell .meta {
+    background: linear-gradient(hsl(210, 10%, 15%), hsl(210, 10%, 10%)) !important;
+}
+
+#user-friends .row {
+    background: linear-gradient(hsl(210, 10%, 15%), hsl(210, 10%, 10%)) !important;
+}
+
+.grid .cell .meta .host {
+    text-align: center;
+    top: 6px;
+    color: #EEEEEE !important;
+}
+
+.grid .cell .meta .join {
+    background: hsl(220, 50%, 20%) !important;
+    border: 1px solid hsl(220, 50%, 30%) !important;
+    box-shadow: 0 0 3px #000000;
+    border-radius: 30px;
+}
+
+.grid .cell .bar .favorite.selected {
+    background: linear-gradient(hsl(220, 70%, 50%), hsl(220, 70%, 40%)) !important;
+}
+
+.grid .cell .bar .favorite.selected .icon-grab {
+    background-position: -35px -280px;
+}
+
+.grid .cell.cta {
+    height: 210px ;
+}
+
+#user-view #user-communities .grid .cell.cta button {
+    transition: all .15s ease-out;
+    border-radius: 0 0 30px 30px;
+    background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%)) !important;
+    opacity: 1;
+}
+
+#user-view #user-communities .grid .cell.cta:hover button {
+    position: absolute;
+    top: 0 !important;
+    height: 300px;
+    border-radius: 30px;
+    background: linear-gradient(hsl(210, 10%, 30%), hsl(210, 10%, 20%)) !important;
+    opacity: 0.8;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+#user-friends .row {
+    border-radius: 20px;
+    box-shadow: 0 0 10px #000;
+}
+
+#user-friends .row .positive {
+    border-radius: 0 20px;
+    background: linear-gradient(hsla(210, 100%, 50%, 0.3), hsla(210, 100%, 40%, 0.3)) !important;
+}
+
+#user-friends .row .positive:hover {
+    background: linear-gradient(hsla(210, 100%, 50%, 0.8), hsla(210, 100%, 40%, 0.8)) !important;
+}
+
+#user-friends .row .negative {
+    border-radius: 20px 0px;
+    background: linear-gradient(hsla(20, 90%, 50%, 0.3), hsla(20, 90%, 40%, 0.3)) !important;
+}
+
+#user-friends .row .negative:hover {
+    background: linear-gradient(hsla(20, 90%, 50%, 0.8), hsla(20, 90%, 40%, 0.8)) !important;
+}
+
+.user-content .avatars .grid .cell, .user-content .avatars .grid .cell .top {
+    border-radius: 30px;
+}
+
+.user-content .avatars .grid .cell .top {
+    background: linear-gradient(rgba(0, 0, 0, 0)70%, hsla(210, 10%, 80%, 0.2) 80%),
+    url("https://AiYiAi.github.io/EDM/Icons/Shop.png") !important;
+    box-shadow: inset 0 0 40px #000000;
+}
+
+.user-content .avatars .cell:hover .top {
+    background: linear-gradient(rgba(0, 0, 0, 0)70%, hsla(0, 0%, 100%, 0.2) 80%),
+    url("https://AiYiAi.github.io/EDM/Icons/ShopHover.png") !important;
+}
+
+user-content .avatars .cell.selected .top {
+    background: linear-gradient(rgba(0, 0, 0, 0)70%, hsla(0, 0%, 100%, 0.2) 80%),
+    url("https://AiYiAi.github.io/EDM/Icons/ShopHover.png") !important;
+}
+
+.user-content .badges .cell {
+    background: radial-gradient(hsl(210, 10%, 10%), hsl(210, 10%, 5%)) !important;
+    box-shadow: inset 0 0 30px #000000;
+}
+
+#user-store .badges .cell:hover {
+    background: radial-gradient(hsl(220, 50%, 40%), hsl(220, 50%, 20%)) !important;
+}
+
+.user-content .badges .cell:hover {
+    background: url("https://aiyiai.github.io/EDM/Icons/BadgebgHover.png") 0 -12px no-repeat !important;
+    box-shadow: 0 0 10px #000000;
+}
+
+.user-content .badges .cell.selected {
+    background: url("https://aiyiai.github.io/EDM/Icons/Badgebg.png") !important;
+    box-shadow: inset 0 0 20px 2px hsla(0, 0%, 100%, 0.2) !important;
+}
+
+.grid .cell .top .expires {
+    background: transparent !important;
+}
+
+.grid .cell .top .prices {
+    background: transparent !important;
+}
+
+#the-user-profile .badge-box {
+    background: transparent !important;
+}
+
+#media-panel {
+    background: transparent !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.grid .cell .top .expires span {
+    color: hsl(30, 100%, 50%) !important;
+}
+
+#the-user-profile .meta {
+    background: hsla(200, 100%, 90%, 0.5) !important;
+    box-shadow: 0 0 0px 15px hsla(200, 100%, 90%, 0.5);
+}
+
+#the-user-profile .experience.section .header {
+    box-shadow: none !important;
+}
+
+.user-content.profile .meta .blurb .box {
+    max-height: initial;
+    padding: 0 5px;
+}
+
+.user-content.profile .meta .blurb input {
+    max-height: initial;
+    padding: 0 5px;
+}
+
+#the-user-profile .blurb .box {
+    background: linear-gradient(135deg, hsl(210, 100%, 25%), hsl(200, 100%, 25%));
+    box-shadow: inset 0 0 5px 1px hsla(0, 0%, 100%, 0.4);
+}
+
+#the-user-profile .blurb .arrow-up {
+    border-bottom: 6px solid hsl(210, 100%, 25%);
+}
+
+#the-user-profile .experience .bar {
+    border-radius: 20px;
+    background: radial-gradient(hsl(210, 10%, 15%), hsl(210, 10%, 20%)) !important;
+}
+
+#footer-user .info .meta .bar {
+    border-radius: 20px;
+    background: radial-gradient(hsl(210, 10%, 15%), hsl(210, 10%, 20%)) !important;
+}
+
+#the-user-profile .experience .bar .progress {
+    border-radius: 20px;
+    background: radial-gradient(at top left, hsla(0, 0%, 50%, 0), hsla(0, 0%, 100%, 0.2)), linear-gradient(hsl(205, 100%, 60%), hsl(205, 100%, 50%));
+    box-shadow: 0 0 30px hsl(205, 100%, 50%);
+}
+
+#footer-user .info .meta .bar .progress {
+    border-radius: 20px;
+    background: radial-gradient(at top left, hsla(0, 0%, 50%, 0), hsla(0, 0%, 100%, 0.2)), linear-gradient(hsl(205, 100%, 60%), hsl(205, 100%, 50%));
+    box-shadow: 0 0 30px hsl(205, 100%, 50%);
+}
+
+#the-user-profile .experience .bar .value {
+    text-shadow: 0 0 3px black;
+}
+
+#footer-user .info .meta .bar .value {
+    text-shadow: 0 0 3px black;
+}
+
+.experience .levels .level {
+    background: linear-gradient(hsl(210, 10%, 30%), hsl(210, 10%, 10%));
+}
+
+.experience .levels .level .label i {
+    z-index: 0;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
