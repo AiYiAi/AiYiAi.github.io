@@ -303,3 +303,51 @@
 #footer-user .info .points .pp {
     color: hsl(200, 50%, 70%);
 }
+
+#footer #twitter-menu {
+    display: none !important;
+}
+
+#footer #facebook-menu {
+    display: none !important;
+}
+
+#footer #iosbadge-menu {
+    display: none !important;
+}
+
+#footer #androidbadge-menu {
+    display: none !important;
+}
+
+#footer #playlist-meta .bar-button {
+    width: calc(100% - 53px) !important;
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
+
+.inventory.button .background {
+    visibility: hidden;
+}
+
+#playlist-button {
+    background: linear-gradient(hsl(205, 100%, 50%), hsl(205, 100%, 40%));
+}
+
+#playlist-import {
+    background: linear-gradient(135deg, hsl(205, 10%, 30%), hsl(205, 10%, 20%));
+}
+
+#playlist-create {
+    background: linear-gradient(135deg, hsl(205, 10%, 30%), hsl(205, 10%, 20%));
+}
+
+#playlist-import:hover {
+    background: linear-gradient(hsl(205, 80%, 50%), hsl(205, 80%, 40%));
+}
+
+#playlist-create:hover {
+    background: linear-gradient(hsl(205, 80%, 50%), hsl(205, 80%, 40%));
+}
+
+/* ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ */
